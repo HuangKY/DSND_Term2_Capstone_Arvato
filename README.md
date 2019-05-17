@@ -16,7 +16,7 @@ Finally, I also tested the model in competition through kaggle, where the compet
 
 ## File Descriptions <a name="files"></a>
 
-Since the dataset is private, only the meta-data is uploaded here.
+Since the dataset offered by **AZ Direct GmbH** is private and cannot be published, only the meta-data is uploaded here.
 
 - Arvato_Project_Workbook.ipynb: The main analysis file
 - DIAS_Attributes_Values_2017.xlsx: the meta-data (a detailed mapping of data values for each feature in alphabetical order)
@@ -35,7 +35,6 @@ Using PCA and KMeans, I got the results as follows.
     - The population who might not be customer: The people who are not rich, nor focusing on the brand of cars. However, they tend to use cars often. Some of them might have some anti-society characteristics.    
 
 - Supervised Learning Prediction part:    
-
 The results were not good. For the three models (logistic regression, random forest and k-NN), none of them has good precision even used GridSearch.
 
 
